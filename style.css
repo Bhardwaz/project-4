@@ -1,0 +1,71 @@
+
+.navbar-container img{
+    position: relative;
+    transform: translateY(50%);
+    left: 5%;
+    display: inline-block;
+}
+.navbar-container .grow-list{
+    display: inline-block;
+    position: relative;
+    left: 20%;
+    transform: translateY(-45%);
+    
+}
+.list-item{
+    display: inline-block;
+    list-style: none;
+    padding: 15px;
+    font-size: 20px;
+    font-family: "gstatic";
+}
+.button-group{
+    float: right;
+    position: relative;
+    right: 5%;
+    transform: translateY(-50%);
+}
+.nav-button{
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 18px;
+    font-family: "gstatic";
+    background-color: #5955b3;
+    border-radius: 10px;
+    border: none;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+}
+.heading-text .description .nav-button .btn {
+      position: relative;
+      left: 110%;
+}
+.btn{
+    position: absolute;
+    top: 65%;
+    left: 10%;
+    padding: 15px 30px;
+}
+.description{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    display: block;
+    width: 19%;
+}
+.heading-text{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    display: block;
+    width: 20%;
+    font-size: 44px;
+    letter-spacing: 1px;
+    color: #3c2f60;
+    font-style: "gstatic";
+}
+.heading-text span{
+    color: #5a56b3;
+}
